@@ -8,13 +8,11 @@ This portfolio project demonstrates my skills through a detailed analysis of [va
 
 ## Project Structure
 
-- **/SQL:** Contains SQL scripts for data extraction, transformation, and analysis. Each script is well-documented to provide a clear understanding of the analysis process.
+- **SQL:** Contains SQL scripts for data extraction, transformation, and analysis. Each script is well-documented to provide a clear understanding of the analysis process.
 
-- **/PowerBI:** Includes Power BI files (.pbix) for creating interactive visualizations based on the analyzed data.
+- **PowerBI:** Includes Power BI files (https://github.com/gitpranav87/Sales_Overview_Dashboard/blob/main/Sales_Overview_Dashboard.pbix) for creating interactive visualizations based on the analyzed data.
 
-- **/Data:** Stores the dataset(s) used in the project. Make sure to include or properly link the data files for the scripts and Power BI files to function correctly.
-
-- **/Documentation:** Additional documentation, such as data dictionaries, methodology, or specific instructions, can be found here.
+- **Data:** Stores the dataset(s) used in the project. Make sure to include or properly link the data files for the scripts and Power BI files to function correctly.
 
 ## Getting Started
 
