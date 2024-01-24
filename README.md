@@ -45,6 +45,8 @@ For any inquiries or feedback, feel free to reach out to me at [pranavky87@gmail
 
 Thank you for exploring my Data Analyst Portfolio Project! I hope you find it insightful and engaging.
 
-![Dashboard](https://github.com/gitpranav87/Sales_Overview_Dashboard/blob/main/Dashboard.png)
 
+
+##Dashboard
+![Dashboard](https://github.com/gitpranav87/Sales_Overview_Dashboard/blob/main/Dashboard.png)
 
