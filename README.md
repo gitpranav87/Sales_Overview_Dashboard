@@ -20,12 +20,12 @@ To explore this project, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/your-username/data-analyst-portfolio.git
+    https://github.com/gitpranav87/Sales_Overview_Dashboard
     ```
 
-2. **Setup Database:** If applicable, ensure you have a database engine (e.g., MySQL, PostgreSQL) installed. Execute the SQL scripts in the `/SQL` directory to set up the database and perform the necessary data analysis.
+2. **Setup Database:** If applicable, ensure you have a database engine (e.g., MySQL, PostgreSQL,SSMS) installed. Execute the SQL scripts in the `https://github.com/gitpranav87/Sales_Overview_Dashboard/tree/main/Portfolio_Project(SQL%2BPOWER-BI)` directory to set up the database and perform the necessary data analysis.
 
-3. **Power BI:** Open the Power BI files in the `/PowerBI` directory using Power BI Desktop. Adjust the data source connections based on your local environment.
+3. **Power BI:** Open the Power BI files in the `https://github.com/gitpranav87/Sales_Overview_Dashboard/blob/main/Sales_Overview_Dashboard.pbix` directory using Power BI Desktop. Adjust the data source connections based on your local environment.
 
 4. **Explore the Results:** Interact with the Power BI reports to explore the visualized insights derived from the dataset.
 
