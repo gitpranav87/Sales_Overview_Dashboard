@@ -1,0 +1,10 @@
+SELECT TOP (1000) [FinanceKey]
+      ,[DateKey]
+      ,[OrganizationKey]
+      ,[DepartmentGroupKey]
+      ,[ScenarioKey]
+      ,[AccountKey]
+      ,[Amount]
+      ,[Date]
+  FROM [AdventureWorksDW2022].[dbo].[FactFinance] 
+
