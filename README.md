@@ -47,6 +47,6 @@ Thank you for exploring my Data Analyst Portfolio Project! I hope you find it in
 
 
 
-##Dashboard
+## Dashboard
 ![Dashboard](https://github.com/gitpranav87/Sales_Overview_Dashboard/blob/main/Dashboard.png)
 
