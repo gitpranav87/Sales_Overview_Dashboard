@@ -4,7 +4,7 @@ Welcome to my Data Analyst Portfolio Project repository! This project showcases 
 
 ## Project Overview
 
-This portfolio project demonstrates my skills through a detailed analysis of [various aspects, including data cleaning, transformation, and visualization. Utilizing SQL for querying and aggregating data, and Power BI for creating interactive and informative visualizations, the analysis provides a comprehensive view of the dataset.]. The dataset used is located in the `https://github.com/gitpranav87/Sales_Overview_Dashboard/tree/main/Portfolio_Project(SQL%2BPOWER-BI)` directory, and the analysis is conducted using SQL scripts in the `/SQL` folder. The visualizations are created using Power BI, and the corresponding files can be found in the `https://github.com/gitpranav87/Sales_Overview_Dashboard/blob/main/Sales_Overview_Dashboard.pbix` directory.
+This portfolio project demonstrates my skills through a detailed analysis of [various aspects, including data cleaning, transformation, and visualization. Utilizing SQL for querying and aggregating data, and Power BI for creating interactive and informative visualizations, the analysis provides a comprehensive view of the dataset.]. The dataset used is located in the `https://github.com/gitpranav87/Sales_Overview_Dashboard/tree/main/Portfolio_Project(SQL%2BPOWER-BI)` directory, and the analysis is conducted using SQL scripts in the `https://github.com/gitpranav87/Sales_Overview_Dashboard/tree/main/CSV_Files_After_Data_Cleansing_Using_SQL_Queries` folder. The visualizations are created using Power BI, and the corresponding files can be found in the `https://github.com/gitpranav87/Sales_Overview_Dashboard/blob/main/Sales_Overview_Dashboard.pbix` directory.
 
 ## Project Structure
 
